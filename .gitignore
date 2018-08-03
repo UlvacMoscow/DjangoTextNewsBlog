@@ -2,6 +2,20 @@
 __pycache__/
 *.py[cod]
 *$py.class
+__pycache__/
+_build/
+build/
+dist/
+htmlcov/
+*.so
+.tox/
+.cache/
+.coverage
+*.egg-info/
+*.egg
+.eggs/
+*.py[cdo]
+.hypothesis/
 
 # C extensions
 *.so
